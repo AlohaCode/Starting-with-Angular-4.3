@@ -1,4 +1,4 @@
-#Starting with ##
+# Starting with Angular
 ### Updated for version 4.3
 
 This is project code for the "Starting with Angular" course.  The course has been updated for working with Angular version 4.3.

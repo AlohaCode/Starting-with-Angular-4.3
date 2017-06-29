@@ -1,0 +1,7 @@
+md-list md-list-item [md-line].wrap {
+    white-space: pre-wrap;
+    font-size: 12px;
+    font-style: italic;
+    margin-left: 14px;
+    margin-top: 6px;
+}
